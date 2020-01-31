@@ -1,0 +1,7 @@
+{
+  "name": "formWithLeaflet",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
